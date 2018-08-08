@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: lightblue;
+  color: navy;
+}
+
+a{
+  color: royalblue;
+}
+
+a:hover {
+  color: navy;
+}
+
+.continue {
+  color: green;
+}
